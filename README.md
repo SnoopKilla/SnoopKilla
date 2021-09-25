@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SnoopKilla
+- 👀 I’m interested in Machine Learning and Deep Learning
+- 🌱 I’m currently learning Statistics and Data Science at Politecnico di Milano
+- 📫 You can reach me at my mail: russomichele1998@gmail.com
